@@ -1,1 +1,25 @@
-[{"id":1,"prefab":"blue","caption":"ITEM1","draggable":true,"style":"width: 100px; height: 100px; position: absolute; top: 168px; left: 429px; background: red none repeat scroll 0% 0%;"},{"id":2,"prefab":"yellow","caption":"ITEM2","draggable":true,"style":"width: 100px; height: 100px; position: absolute; top: 380px; left: 467px; background: red none repeat scroll 0% 0%;"},{"id":3,"prefab":"NULL","caption":"ITEM3","draggable":true,"style":"width: 100px; height: 100px; position: absolute; top: 387px; left: 83px; background: red none repeat scroll 0% 0%;"}]
+{
+  "boxes": [
+    {
+      "id": 1,
+      "prefab": "blue",
+      "caption": "ITEM1",
+      "draggable": true,
+      "style": "width: 100px; height: 100px; position: absolute; top: 168px; left: 429px; background: red none repeat scroll 0% 0%;"
+    },
+    {
+      "id": 2,
+      "prefab": "yellow",
+      "caption": "ITEM2",
+      "draggable": true,
+      "style": "width: 100px; height: 100px; position: absolute; top: 380px; left: 467px; background: red none repeat scroll 0% 0%;"
+    },
+    {
+      "id": 3,
+      "prefab": "NULL",
+      "caption": "ITEM3",
+      "draggable": true,
+      "style": "width: 100px; height: 100px; position: absolute; top: 387px; left: 83px; background: red none repeat scroll 0% 0%;"
+    }
+  ]
+}
