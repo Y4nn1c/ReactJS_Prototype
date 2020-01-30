@@ -1,1 +1,103 @@
-[{"name":"Box0","id":0,"typ":"box","content":[{"name":"https://miro.medium.com/max/3200/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg","id":"0/0","typ":"test","content":[],"styleProp":{"backgroundColor":"#B2CFEC","width":"100%","display":"box","float":"left","height":"50%","top":0,"left":0}},{"name":"Hor1","id":"0/1","typ":"box","content":[{"name":"VER1","id":"0/1/0","typ":"box","content":[],"styleProp":{"backgroundColor":"#855883","width":"50%","display":"box","float":"left","height":"100%","top":0,"left":0}},{"name":"VER1","id":"0/1/1","typ":"box","content":[],"styleProp":{"backgroundColor":"#2D38DB","width":"50%","display":"box","float":"left","height":"100%","top":0,"left":0}}],"styleProp":{"backgroundColor":"#01D300","width":"100%","display":"box","float":"left","height":"50%","top":0,"left":0}}],"styleProp":{"backgroundColor":"green","display":"box","width":"50vw","height":"50vh","top":100,"left":100,"position":"absolute"}}]
+{
+   "objects":[
+      {
+         "name":"Box0",
+         "id":0,
+         "typ":"box",
+         "content":[
+            {
+               "name":"https://miro.medium.com/max/3200/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg",
+               "id":"0/0",
+               "typ":"test",
+               "content":[
+
+               
+],
+               "styleProp":{
+                  "backgroundColor":"#B2CFEC",
+                  "width":"100%",
+                  "display":"box",
+                  "float":"left",
+                  "height":"50%",
+                  "top":0,
+                  "left":0
+               
+}
+            
+},
+            {
+               "name":"Hor1",
+               "id":"0/1",
+               "typ":"box",
+               "content":[
+                  {
+                     "name":"VER1",
+                     "id":"0/1/0",
+                     "typ":"box",
+                     "content":[
+
+                     
+],
+                     "styleProp":{
+                        "backgroundColor":"#855883",
+                        "width":"50%",
+                        "display":"box",
+                        "float":"left",
+                        "height":"100%",
+                        "top":0,
+                        "left":0
+                     
+}
+                  
+},
+                  {
+                     "name":"VER1",
+                     "id":"0/1/1",
+                     "typ":"box",
+                     "content":[
+
+                     
+],
+                     "styleProp":{
+                        "backgroundColor":"#2D38DB",
+                        "width":"50%",
+                        "display":"box",
+                        "float":"left",
+                        "height":"100%",
+                        "top":0,
+                        "left":0
+                     
+}
+                  
+}
+               
+],
+               "styleProp":{
+                  "backgroundColor":"#01D300",
+                  "width":"100%",
+                  "display":"box",
+                  "float":"left",
+                  "height":"50%",
+                  "top":0,
+                  "left":0
+               
+}
+            
+}
+         
+],
+         "styleProp":{
+            "backgroundColor":"green",
+            "display":"box",
+            "width":"50vw",
+            "height":"50vh",
+            "top":100,
+            "left":100,
+            "position":"absolute"
+         
+}
+      
+}
+   
+]
+}
