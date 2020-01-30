@@ -3,22 +3,217 @@
       {
          "name":"Box0",
          "id":0,
-         "typ":"box",
+         "typ":3,
          "content":[
             {
-               "name":"https://miro.medium.com/max/3200/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg",
+               "name":"VER1",
                "id":"0/0",
-               "typ":"test",
+               "typ":2,
                "content":[
+                  {
+                     "name":"Hor1",
+                     "id":"0/0/0",
+                     "typ":2,
+                     "content":[
+                        {
+                           "name":"Hor1",
+                           "id":"0/0/0/0",
+                           "typ":2,
+                           "content":[
 
+                           
+],
+                           "styleProp":{
+                              "backgroundColor":"#7DD497",
+                              "width":"100%",
+                              "display":"box",
+                              "float":"left",
+                              "height":"50%",
+                              "top":0,
+                              "left":0
+                           
+}
+                        
+},
+                        {
+                           "name":"Hor1",
+                           "id":"0/0/0/1",
+                           "typ":2,
+                           "content":[
+
+                           
+],
+                           "styleProp":{
+                              "backgroundColor":"#611D3C",
+                              "width":"100%",
+                              "display":"box",
+                              "float":"left",
+                              "height":"50%",
+                              "top":0,
+                              "left":0
+                           
+}
+                        
+}
+                     
+],
+                     "styleProp":{
+                        "backgroundColor":"#71BF12",
+                        "width":"100%",
+                        "display":"box",
+                        "float":"left",
+                        "height":"50%",
+                        "top":0,
+                        "left":0
+                     
+}
+                  
+},
+                  {
+                     "name":"Hor1",
+                     "id":"0/0/1",
+                     "typ":2,
+                     "content":[
+                        {
+                           "name":"Hor1",
+                           "id":"0/0/1/0",
+                           "typ":2,
+                           "content":[
+                              {
+                                 "name":"VER1",
+                                 "id":"0/0/1/0/0",
+                                 "typ":2,
+                                 "content":[
+                                    {
+                                       "name":"Hor1",
+                                       "id":"0/0/1/0/0/0",
+                                       "typ":2,
+                                       "content":[
+
+                                       
+],
+                                       "styleProp":{
+                                          "backgroundColor":"#95EA9B",
+                                          "width":"100%",
+                                          "display":"box",
+                                          "float":"left",
+                                          "height":"50%",
+                                          "top":0,
+                                          "left":0
+                                       
+}
+                                    
+},
+                                    {
+                                       "name":"Hor1",
+                                       "id":"0/0/1/0/0/1",
+                                       "typ":2,
+                                       "content":[
+
+                                       
+],
+                                       "styleProp":{
+                                          "backgroundColor":"#FFCCD2",
+                                          "width":"100%",
+                                          "display":"box",
+                                          "float":"left",
+                                          "height":"50%",
+                                          "top":0,
+                                          "left":0
+                                       
+}
+                                    
+}
+                                 
+],
+                                 "styleProp":{
+                                    "backgroundColor":"#776A06",
+                                    "width":"50%",
+                                    "display":"box",
+                                    "float":"left",
+                                    "height":"100%",
+                                    "top":0,
+                                    "left":0
+                                 
+}
+                              
+},
+                              {
+                                 "name":"VER1",
+                                 "id":"0/0/1/0/1",
+                                 "typ":2,
+                                 "content":[
+
+                                 
+],
+                                 "styleProp":{
+                                    "backgroundColor":"#3422DF",
+                                    "width":"50%",
+                                    "display":"box",
+                                    "float":"left",
+                                    "height":"100%",
+                                    "top":0,
+                                    "left":0
+                                 
+}
+                              
+}
+                           
+],
+                           "styleProp":{
+                              "backgroundColor":"#46DA85",
+                              "width":"100%",
+                              "display":"box",
+                              "float":"left",
+                              "height":"50%",
+                              "top":0,
+                              "left":0
+                           
+}
+                        
+},
+                        {
+                           "name":"Hor1",
+                           "id":"0/0/1/1",
+                           "typ":2,
+                           "content":[
+
+                           
+],
+                           "styleProp":{
+                              "backgroundColor":"#72CACF",
+                              "width":"100%",
+                              "display":"box",
+                              "float":"left",
+                              "height":"50%",
+                              "top":0,
+                              "left":0
+                           
+}
+                        
+}
+                     
+],
+                     "styleProp":{
+                        "backgroundColor":"#0A40B3",
+                        "width":"100%",
+                        "display":"box",
+                        "float":"left",
+                        "height":"50%",
+                        "top":0,
+                        "left":0
+                     
+}
+                  
+}
                
 ],
                "styleProp":{
-                  "backgroundColor":"#B2CFEC",
-                  "width":"100%",
+                  "backgroundColor":"#1F95D3",
+                  "width":"50%",
                   "display":"box",
                   "float":"left",
-                  "height":"50%",
+                  "height":"100%",
                   "top":0,
                   "left":0
                
@@ -26,20 +221,78 @@
             
 },
             {
-               "name":"Hor1",
+               "name":"VER1",
                "id":"0/1",
-               "typ":"box",
+               "typ":2,
                "content":[
                   {
                      "name":"VER1",
                      "id":"0/1/0",
-                     "typ":"box",
+                     "typ":2,
                      "content":[
+                        {
+                           "name":"Hor1",
+                           "id":"0/1/0/0",
+                           "typ":2,
+                           "content":[
+                              {
+                                 "name":"Hor1",
+                                 "id":"0/1/0/0/0",
+                                 "typ":2,
+                                 "content":[
 
+                                 
+],
+                                 "styleProp":{
+                                    "backgroundColor":"#65891A",
+                                    "width":"100%",
+                                    "display":"box",
+                                    "float":"left",
+                                    "height":"50%",
+                                    "top":0,
+                                    "left":0
+                                 
+}
+                              
+},
+                              {
+                                 "name":"Hor1",
+                                 "id":"0/1/0/0/1",
+                                 "typ":2,
+                                 "content":[
+
+                                 
+],
+                                 "styleProp":{
+                                    "backgroundColor":"#40562C",
+                                    "width":"100%",
+                                    "display":"box",
+                                    "float":"left",
+                                    "height":"50%",
+                                    "top":0,
+                                    "left":0
+                                 
+}
+                              
+}
+                           
+],
+                           "styleProp":{
+                              "backgroundColor":"#763D45",
+                              "width":"100%",
+                              "display":"box",
+                              "float":"left",
+                              "height":"50%",
+                              "top":0,
+                              "left":0
+                           
+}
+                        
+}
                      
 ],
                      "styleProp":{
-                        "backgroundColor":"#855883",
+                        "backgroundColor":"#C15262",
                         "width":"50%",
                         "display":"box",
                         "float":"left",
@@ -53,13 +306,130 @@
                   {
                      "name":"VER1",
                      "id":"0/1/1",
-                     "typ":"box",
+                     "typ":2,
                      "content":[
+                        {
+                           "name":"Hor1",
+                           "id":"0/1/1/0",
+                           "typ":2,
+                           "content":[
+                              {
+                                 "name":"VER1",
+                                 "id":"0/1/1/0/0",
+                                 "typ":2,
+                                 "content":[
 
+                                 
+],
+                                 "styleProp":{
+                                    "backgroundColor":"#BC8543",
+                                    "width":"50%",
+                                    "display":"box",
+                                    "float":"left",
+                                    "height":"100%",
+                                    "top":0,
+                                    "left":0
+                                 
+}
+                              
+},
+                              {
+                                 "name":"VER1",
+                                 "id":"0/1/1/0/1",
+                                 "typ":2,
+                                 "content":[
+
+                                 
+],
+                                 "styleProp":{
+                                    "backgroundColor":"#DB19E6",
+                                    "width":"50%",
+                                    "display":"box",
+                                    "float":"left",
+                                    "height":"100%",
+                                    "top":0,
+                                    "left":0
+                                 
+}
+                              
+}
+                           
+],
+                           "styleProp":{
+                              "backgroundColor":"#BFE068",
+                              "width":"100%",
+                              "display":"box",
+                              "float":"left",
+                              "height":"50%",
+                              "top":0,
+                              "left":0
+                           
+}
+                        
+},
+                        {
+                           "name":"Hor1",
+                           "id":"0/1/1/1",
+                           "typ":2,
+                           "content":[
+                              {
+                                 "name":"VER1",
+                                 "id":"0/1/1/1/0",
+                                 "typ":2,
+                                 "content":[
+
+                                 
+],
+                                 "styleProp":{
+                                    "backgroundColor":"#2221D2",
+                                    "width":"50%",
+                                    "display":"box",
+                                    "float":"left",
+                                    "height":"100%",
+                                    "top":0,
+                                    "left":0
+                                 
+}
+                              
+},
+                              {
+                                 "name":"VER1",
+                                 "id":"0/1/1/1/1",
+                                 "typ":2,
+                                 "content":[
+
+                                 
+],
+                                 "styleProp":{
+                                    "backgroundColor":"#CCAD9F",
+                                    "width":"50%",
+                                    "display":"box",
+                                    "float":"left",
+                                    "height":"100%",
+                                    "top":0,
+                                    "left":0
+                                 
+}
+                              
+}
+                           
+],
+                           "styleProp":{
+                              "backgroundColor":"#B84FC2",
+                              "width":"100%",
+                              "display":"box",
+                              "float":"left",
+                              "height":"50%",
+                              "top":0,
+                              "left":0
+                           
+}
+                        
+}
                      
 ],
                      "styleProp":{
-                        "backgroundColor":"#2D38DB",
+                        "backgroundColor":"#D12B72",
                         "width":"50%",
                         "display":"box",
                         "float":"left",
@@ -73,11 +443,11 @@
                
 ],
                "styleProp":{
-                  "backgroundColor":"#01D300",
-                  "width":"100%",
+                  "backgroundColor":"#41B762",
+                  "width":"50%",
                   "display":"box",
                   "float":"left",
-                  "height":"50%",
+                  "height":"100%",
                   "top":0,
                   "left":0
                
@@ -91,8 +461,8 @@
             "display":"box",
             "width":"50vw",
             "height":"50vh",
-            "top":100,
-            "left":100,
+            "top":"213px",
+            "left":"199px",
             "position":"absolute"
          
 }
