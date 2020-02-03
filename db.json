@@ -1,6 +1,4 @@
-{"objects":
-	[
-
+{"objects":[
    {
       "name":"box0",
       "id":0,
@@ -51,7 +49,200 @@
             "id":"0/2",
             "typ":"box",
             "content":[
+               {
+                  "name":"VER1",
+                  "id":"0/2/0",
+                  "typ":"box",
+                  "content":[
+                     {
+                        "name":"VER1",
+                        "id":"0/2/0/0",
+                        "typ":"box",
+                        "content":[
+                           {
+                              "name":"VER1",
+                              "id":"0/2/0/0/0",
+                              "typ":"box",
+                              "content":[
+                                 {
+                                    "name":"vecLable0/2/0/0/0",
+                                    "id":"0/2/0/0/0/0",
+                                    "typ":"vecLable",
+                                    "content":[
 
+                                    
+],
+                                    "styleProp":{
+                                       "backgroundColor":"#29CD27",
+                                       "width":"100%",
+                                       "display":"box",
+                                       "float":"left",
+                                       "height":"100%",
+                                       "top":0,
+                                       "left":0
+                                    
+}
+                                 
+}
+                              
+],
+                              "styleProp":{
+                                 "backgroundColor":"#A4ED55",
+                                 "width":"50%",
+                                 "display":"box",
+                                 "float":"left",
+                                 "height":"100%",
+                                 "top":0,
+                                 "left":0
+                              
+}
+                           
+},
+                           {
+                              "name":"VER1",
+                              "id":"0/2/0/0/1",
+                              "typ":"box",
+                              "content":[
+                                 {
+                                    "name":"vecLable0/2/0/0/1",
+                                    "id":"0/2/0/0/1/0",
+                                    "typ":"vecLable",
+                                    "content":[
+
+                                    
+],
+                                    "styleProp":{
+                                       "backgroundColor":"#6C7D50",
+                                       "width":"100%",
+                                       "display":"box",
+                                       "float":"left",
+                                       "height":"100%",
+                                       "top":0,
+                                       "left":0
+                                    
+}
+                                 
+}
+                              
+],
+                              "styleProp":{
+                                 "backgroundColor":"#E33B62",
+                                 "width":"50%",
+                                 "display":"box",
+                                 "float":"left",
+                                 "height":"100%",
+                                 "top":0,
+                                 "left":0
+                              
+}
+                           
+}
+                        
+],
+                        "styleProp":{
+                           "backgroundColor":"#B0DC5B",
+                           "width":"50%",
+                           "display":"box",
+                           "float":"left",
+                           "height":"100%",
+                           "top":0,
+                           "left":0
+                        
+}
+                     
+},
+                     {
+                        "name":"VER1",
+                        "id":"0/2/0/1",
+                        "typ":"box",
+                        "content":[
+                           {
+                              "name":"VER1",
+                              "id":"0/2/0/1/0",
+                              "typ":"box",
+                              "content":[
+                                 {
+                                    "name":"vecLable0/2/0/1/0",
+                                    "id":"0/2/0/1/0/0",
+                                    "typ":"vecLable",
+                                    "content":[
+
+                                    
+],
+                                    "styleProp":{
+                                       "backgroundColor":"#40C6C0",
+                                       "width":"100%",
+                                       "display":"box",
+                                       "float":"left",
+                                       "height":"100%",
+                                       "top":0,
+                                       "left":0
+                                    
+}
+                                 
+}
+                              
+],
+                              "styleProp":{
+                                 "backgroundColor":"#527B01",
+                                 "width":"50%",
+                                 "display":"box",
+                                 "float":"left",
+                                 "height":"100%",
+                                 "top":0,
+                                 "left":0
+                              
+}
+                           
+},
+                           {
+                              "name":"VER1",
+                              "id":"0/2/0/1/1",
+                              "typ":"box",
+                              "content":[
+
+                              
+],
+                              "styleProp":{
+                                 "backgroundColor":"#3D88A9",
+                                 "width":"50%",
+                                 "display":"box",
+                                 "float":"left",
+                                 "height":"100%",
+                                 "top":0,
+                                 "left":0
+                              
+}
+                           
+}
+                        
+],
+                        "styleProp":{
+                           "backgroundColor":"#6E1C48",
+                           "width":"50%",
+                           "display":"box",
+                           "float":"left",
+                           "height":"100%",
+                           "top":0,
+                           "left":0
+                        
+}
+                     
+}
+                  
+],
+                  "styleProp":{
+                     "backgroundColor":"#CC18B2",
+                     "width":"50%",
+                     "display":"box",
+                     "float":"left",
+                     "height":"100%",
+                     "top":0,
+                     "left":0
+                  
+}
+               
+}
             
 ],
             "styleProp":{
@@ -140,5 +331,4 @@
 }
    
 }
-]
-}
+]}
